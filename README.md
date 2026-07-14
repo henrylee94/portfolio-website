@@ -1,6 +1,10 @@
 # Portfolio Website
 
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?style=flat&logo=vercel)](https://portfolio-website-three-henna-93.vercel.app)
+
 Personal portfolio site for Henry Lee — Backend Team Lead.
+
+**Live:** [portfolio-website-three-henna-93.vercel.app](https://portfolio-website-three-henna-93.vercel.app)
 
 ## Overview
 
